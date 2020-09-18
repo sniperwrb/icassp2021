@@ -1,6 +1,6 @@
 ## Demo for ICASSP 2021 paper
 
-<font size="+2">Title: Unsupervised voice conversion using VQ-VAE</font> <br />
+<font size="+2">Title: Unsupervised Voice Conversion using VQ-VAE</font> <br />
 
 <font size="+1">Some examples:</font> <br />
 
