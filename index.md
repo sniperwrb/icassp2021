@@ -2,8 +2,6 @@
 
 <font size="+2">Title: Unsupervised Voice Conversion using VQ-VAE</font> 
 
-[<font size="+1">Demo PPT file download (Right-click save recommended)</font>](https://github.com/sniperwrb/icassp2021/raw/master/Idw_000.mp3)
-
 <font size="+1">Some examples:</font> <br />
 
 |   | <font size="+1">p228(F)->p227(M)</font> | <font size="+1">p237(M)->p238(F)</font> |
@@ -15,3 +13,6 @@
 | <font size="+1">Proposed(J)</font> | <audio controls=""><source src="https://github.com/sniperwrb/icassp2021/raw/master/data/228_to_227_NJ1_004.mp3"></audio> | <audio controls=""><source src="https://github.com/sniperwrb/icassp2021/raw/master/data/237_to_238_NJ1_012.mp3"></audio> |
 | <font size="+1">Proposed(V)</font> | <audio controls=""><source src="https://github.com/sniperwrb/icassp2021/raw/master/data/228_to_227_VT10_004.mp3"></audio> | <audio controls=""><source src="https://github.com/sniperwrb/icassp2021/raw/master/data/237_to_238_VT10_012.mp3"></audio> |
 
+[<font size="+1">Demo PPT file download (Right-click save recommended)</font>](https://github.com/sniperwrb/icassp2021/raw/master/Idw_000.mp3)
+
+If it is not a PPT file, then the PPT is not completed yet.
